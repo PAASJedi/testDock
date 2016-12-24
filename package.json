@@ -1,0 +1,13 @@
+{
+"name": "PDF_Node_Docker_Demo",
+"version": "1.0.0",
+"description": "Run PDF thru node.js on docker",
+"author": "ipassjedi",
+"main":"server.js",
+"scripts": {
+  "start": "node server.js"
+ },
+ "dependencies":{
+ "express": "^4.13.3"
+  }
+}
